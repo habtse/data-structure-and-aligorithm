@@ -14,4 +14,4 @@ def bubbleSort(arr):
             break
     return arr
                 
-print(bubbleSort([3,4,5,2,6,3,32,7,1]))           
+      
